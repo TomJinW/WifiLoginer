@@ -108,3 +108,23 @@ https://controller.shanghaitech.edu.cn:8445/PortalServer//Webauth/webAuthAction\
 2. 保持连接
 3. 账号密码的本地存储（交互式）
 4. 优雅的配色
+
+### WhyFi_Surfer （桌面窗口版）
+作者：崔校友
+
+环境：
+Windows （Windows 7 or higher，需要 .net Framework 4.5）
+Mac (OS X El Capitan or higher)
+
+语言：
+Windows：C#
+Mac：Swift
+
+特点：
+1. 完全按照 Windows 和 macOS 的界面习惯定制的界面
+2. 记住密码与定时保持连接功能
+
+地址：
+Windows：https://github.com/TomJinW/WhyFi_Surfer_Win
+Mac：https://github.com/TomJinW/WhyFi_Surfer_Mac
+
